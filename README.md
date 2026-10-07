@@ -84,9 +84,9 @@ technologies, solve real-world problems and contribute to impactful projects.
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: Add your LinkedIn profile here
-- 📧 Email: Add your professional email here
-- 🐙 GitHub: Add your GitHub profile here
+- 💼 LinkedIn: linkedin.com/in/chippala-venkata-santhosh-704b2534a
+- 📧 Email: chippalasanthosh@gmail.com
+- 🐙 GitHub: santhosh1604
 
 ---
 
